@@ -2,5 +2,5 @@
 Berisi saduran matakuliah Analisa dan Perancangan PL
 
 NIM: 1811500097 
-Nama: Livren Sandi
+Nama Lengkap: Livren Sandi
 Kelompok: TI6A
