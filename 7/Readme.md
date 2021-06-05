@@ -1,4 +1,6 @@
-Berisi saduran matakuliah Analisa dan Perancangan PL 
+# ARPL_Semester_VI
+Berisi saduran matakuliah Analisa dan Perancangan PL
 
-Absensi pertemuan 7:
-NIM: 1811500097 Nama Lengkap: Livren Sandi Kelompok: TI6A
+NIM: 1811500097 
+Nama Lengkap: Livren Sandi
+Kelompok: TI6A
